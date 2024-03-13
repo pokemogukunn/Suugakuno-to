@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yukinomathnote-1pagedesu
+    name: yukinomathnote-1pageme
     env: python
     region: Oregon
     plan: free
